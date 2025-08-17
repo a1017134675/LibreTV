@@ -30,6 +30,14 @@ const CUSTOMER_SITES = {
     dytt: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂',
+    },
+    jinma: {
+        api: 'https://api.jmzy.com/api.php/provide/vod',
+        name: '金马',
+    },
+    iqiyi: {
+        api: 'https://iqiyizyapi.com/api.php/provide/vod',
+        name: '爱奇艺',
     }
 };
 
