@@ -38,6 +38,22 @@ const CUSTOMER_SITES = {
     iqiyi: {
         api: 'https://iqiyizyapi.com/api.php/provide/vod',
         name: '爱奇艺',
+    },
+    heimu: {
+        api: 'https://json.heimuer.xyz/api.php/provide/vod',
+        name: '黑木耳',
+    },
+    feifan: {
+        api: 'http://ffzy5.tv/api.php/provide/vod',
+        name: '非凡影视',
+    },
+    yinghua: {
+        api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
+        name: '樱花资源',
+    },
+    ikun: {
+        api: 'https://ikunzyapi.com/api.php/provide/vod',
+        name: 'iKun资源',
     }
 };
 
