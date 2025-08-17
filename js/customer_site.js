@@ -6,6 +6,30 @@ const CUSTOMER_SITES = {
     douban: {
         api: 'https://caiji.dbzy.tv/api.php/provide/vod',
         name: '豆瓣',
+    },
+    baidu: {
+        api: 'https://api.apibdzy.com/api.php/provide/vod',
+        name: '百度资源',
+    },
+    tianya: {
+        api: 'https://tyyszyapi.com/api.php/provide/vod',
+        name: '天涯影视',
+    },
+    wangwang: {
+        api: 'https://api.wwzy.tv/api.php/provide/vod',
+        name: '旺旺资源',
+    },
+    baofeng: {
+        api: 'https://bfzyapi.com/api.php/provide/vod',
+        name: '暴风',
+    },
+    maoyan: {
+        api: 'https://api.maoyanapi.top/api.php/provide/vod',
+        name: '猫眼',
+    },
+    dytt: {
+        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
+        name: '电影天堂',
     }
 };
 
